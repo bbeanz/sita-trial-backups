@@ -25,7 +25,11 @@
     <tabs>standard-home</tabs>
     <tabs>copado__Getting_Started</tabs>
     <tabs>copado__Pipeline_Manager</tabs>
+    <tabs>copado__Org__c</tabs>
+    <tabs>copado__Environment__c</tabs>
     <tabs>copado__User_Story__c</tabs>
+    <tabs>copado__Data_Template__c</tabs>
+    <tabs>copado__Data_Set__c</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
     <uiType>Lightning</uiType>
