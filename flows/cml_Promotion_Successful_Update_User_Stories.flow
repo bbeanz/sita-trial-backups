@@ -55,7 +55,7 @@
             <name>Yes</name>
             <conditionLogic>and</conditionLogic>
             <conditions>
-                <leftValueReference>MyUserStory.cml_First_Time_Promoted_Prod_or_RB__c</leftValueReference>
+                <leftValueReference>Loop_Promoted_User_Stories.copado__User_Story__r.cml_First_Time_Promoted_Prod_or_RB__c</leftValueReference>
                 <operator>IsNull</operator>
                 <rightValue>
                     <booleanValue>false</booleanValue>
