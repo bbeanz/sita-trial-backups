@@ -16,6 +16,16 @@
         <label>Completed</label>
     </customValue>
     <customValue>
+        <fullName>In Progress</fullName>
+        <default>false</default>
+        <label>In Progress</label>
+    </customValue>
+    <customValue>
+        <fullName>Done</fullName>
+        <default>false</default>
+        <label>Done</label>
+    </customValue>
+    <customValue>
         <fullName>Ready to Test</fullName>
         <default>false</default>
         <isActive>false</isActive>
