@@ -105,17 +105,6 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>Price_Book_Entry_Ext_Id__c</fullName>
-        <caseSensitive>true</caseSensitive>
-        <externalId>true</externalId>
-        <label>Price Book Entry Ext Id</label>
-        <length>255</length>
-        <required>false</required>
-        <trackHistory>false</trackHistory>
-        <type>Text</type>
-        <unique>true</unique>
-    </fields>
-    <fields>
         <fullName>Pricebook2Id</fullName>
         <type>Lookup</type>
     </fields>

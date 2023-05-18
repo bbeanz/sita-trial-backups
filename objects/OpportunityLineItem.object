@@ -131,16 +131,6 @@
         <type>Lookup</type>
     </fields>
     <fields>
-        <fullName>Oppty_Prod_Ext_Id__c</fullName>
-        <caseSensitive>true</caseSensitive>
-        <externalId>true</externalId>
-        <label>Oppty Prod Ext Id</label>
-        <length>255</length>
-        <required>false</required>
-        <type>Text</type>
-        <unique>true</unique>
-    </fields>
-    <fields>
         <fullName>Product2Id</fullName>
         <type>Lookup</type>
     </fields>

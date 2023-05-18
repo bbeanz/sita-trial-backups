@@ -164,17 +164,6 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>Product_Ext_Id__c</fullName>
-        <caseSensitive>true</caseSensitive>
-        <externalId>true</externalId>
-        <label>Product Ext Id</label>
-        <length>255</length>
-        <required>false</required>
-        <trackHistory>false</trackHistory>
-        <type>Text</type>
-        <unique>true</unique>
-    </fields>
-    <fields>
         <fullName>QuantityUnitOfMeasure</fullName>
         <trackHistory>false</trackHistory>
         <type>Picklist</type>

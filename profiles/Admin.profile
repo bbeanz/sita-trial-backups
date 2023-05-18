@@ -181,6 +181,22 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
+        <apexClass>AccountAutomations</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AccountAutomationsTest</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AccountOperations</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AccountOperationsTest</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>cmlConvertRecordsToCSVQueueable</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -8028,11 +8044,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Contact.Contact_Ext_Id__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Contact.Department</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -9308,11 +9319,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Opportunity.Oppty_Ext_Id__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Opportunity.Probability</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -9339,11 +9345,6 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>OpportunityLineItem.ListPrice</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>OpportunityLineItem.Oppty_Prod_Ext_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -9508,16 +9509,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Pricebook2.Price_Book_Ext_Id__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>PricebookEntry.Price_Book_Entry_Ext_Id__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Problem.Category</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -9599,11 +9590,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Product2.ProductCode</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Product2.Product_Ext_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

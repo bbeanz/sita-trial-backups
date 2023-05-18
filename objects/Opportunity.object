@@ -207,18 +207,6 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
-        <fullName>Oppty_Ext_Id__c</fullName>
-        <caseSensitive>true</caseSensitive>
-        <externalId>true</externalId>
-        <label>Oppty Ext Id</label>
-        <length>255</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>true</unique>
-    </fields>
-    <fields>
         <fullName>OwnerId</fullName>
         <trackFeedHistory>true</trackFeedHistory>
         <trackTrending>false</trackTrending>
