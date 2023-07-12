@@ -3,6 +3,7 @@
     <enableAccountScoreEnabled>false</enableAccountScoreEnabled>
     <enableEinsteinVisits>false</enableEinsteinVisits>
     <enableIndustriesRebates>false</enableIndustriesRebates>
+    <enableIndustriesShipAndDebit>false</enableIndustriesShipAndDebit>
     <enableObjectDetection>false</enableObjectDetection>
     <enableVisitCalendarSync>false</enableVisitCalendarSync>
     <enableVisitInventoryEnabled>false</enableVisitInventoryEnabled>
