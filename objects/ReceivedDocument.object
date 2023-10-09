@@ -168,6 +168,11 @@
         <inlineHelpText>The document’s latest processing stage.</inlineHelpText>
         <trackHistory>false</trackHistory>
     </fields>
+    <fields>
+        <fullName>StatusReason</fullName>
+        <inlineHelpText>Reason for the status when processing and transforming the document.</inlineHelpText>
+        <trackHistory>false</trackHistory>
+    </fields>
     <listViews>
         <fullName>All_ReceivedDocuments</fullName>
         <filterScope>Everything</filterScope>
